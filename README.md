@@ -6,6 +6,7 @@ Symptom Interpretation: Understands user-provided symptoms and provides suggesti
 Interactive Conversation: Engages in a simple conversation with the user to gather necessary information.<br>
 Customizable Responses: The bot's responses can be customized based on specific symptoms or medical guidelines.<br>
 Lightweight and Fast: Designed to be efficient with quick response times.<br>
+<br>
 Installation<br>
 To get started with the Health Chatbot, follow these steps:<br>
 
@@ -17,3 +18,4 @@ Install Required Dependencies:<br>
 Make sure you have Python installed. Then, install the necessary Python libraries:<br>
 pip install -r requirements.txt<br>
 Run the Chatbot:<br>
+python chatbot.py
